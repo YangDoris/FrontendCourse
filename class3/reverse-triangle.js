@@ -1,4 +1,4 @@
-function Triangle(num5){
+function ReverseTriangle(num5){
 
     let array1 = [];
     for(let i = 1; i <= num5; i++){
@@ -14,4 +14,4 @@ function Triangle(num5){
     }
 }
 
-Triangle(12);
+ReverseTriangle(12);
